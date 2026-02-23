@@ -1,0 +1,313 @@
+site_id;nom_site;type_production;commune;puissance_installee_mw;mois;production_mwh;facteur_charge;heures_fonctionnement;co2_evite_tonnes;disponibilite;revenu_estime_eur
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-01-01;2257.47;0.253;188.1;902.99;0.949;141986.77
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-02-01;2390.98;0.297;199.2;956.39;0.963;137063.6
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-03-01;2656.62;0.298;221.4;1062.65;0.909;185584.78
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-04-01;2332.46;0.27;194.4;932.98;0.894;129644.51
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-05-01;1860.14;0.208;155.0;744.06;0.905;169189.98
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-06-01;1611.99;0.187;134.3;644.8;0.923;134164.47
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-07-01;1429.43;0.16;119.1;571.77;0.931;131307.06
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-08-01;1066.04;0.119;88.8;426.42;0.899;74047.24
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-09-01;1507.08;0.174;125.6;602.83;0.945;92700.56
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-10-01;2170.63;0.243;180.9;868.25;0.91;153656.07
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-11-01;2186.73;0.253;182.2;874.69;0.951;149242.16
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2022-12-01;2523.97;0.283;210.3;1009.59;0.932;167783.16
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-01-01;2638.37;0.296;219.9;1055.35;0.964;232326.09
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-02-01;2612.5;0.324;217.7;1045.0;0.931;183578.43
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-03-01;2089.57;0.234;174.1;835.83;0.941;136585.61
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-04-01;1901.57;0.22;158.5;760.63;0.934;134015.12
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-05-01;1708.4;0.191;142.4;683.36;0.963;150068.67
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-06-01;1613.03;0.187;134.4;645.21;0.966;126388.24
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-07-01;1378.38;0.154;114.9;551.35;0.932;92922.25
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-08-01;1139.69;0.128;95.0;455.88;0.987;96121.37
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-09-01;1408.95;0.163;117.4;563.58;0.922;127832.93
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-10-01;2059.42;0.231;171.6;823.77;0.903;154818.21
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-11-01;2403.53;0.278;200.3;961.41;0.959;196211.37
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2023-12-01;2759.66;0.309;230.0;1103.86;0.902;207500.22
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-01-01;2261.14;0.253;188.4;904.46;0.918;177192.48
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-02-01;2454.25;0.294;204.5;981.7;0.949;173134.04
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-03-01;2119.83;0.237;176.7;847.93;0.966;145867.57
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-04-01;2272.41;0.263;189.4;908.96;0.917;135596.01
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-05-01;1687.24;0.189;140.6;674.9;0.908;151650.06
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-06-01;1665.81;0.193;138.8;666.32;0.885;144740.94
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-07-01;1231.99;0.138;102.7;492.8;0.922;88271.12
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-08-01;1088.79;0.122;90.7;435.52;0.964;100980.03
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-09-01;1474.67;0.171;122.9;589.87;0.901;113992.34
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-10-01;1994.12;0.223;166.2;797.65;0.957;149657.71
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-11-01;2804.39;0.325;233.7;1121.76;0.922;164508.06
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2024-12-01;2941.48;0.329;245.1;1176.59;0.937;225122.88
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2025-01-01;2813.0;0.315;234.4;1125.2;0.912;239601.62
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2025-02-01;2109.62;0.262;175.8;843.85;0.92;162888.26
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2025-03-01;2543.56;0.285;212.0;1017.42;0.973;234568.17
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2025-04-01;1973.6;0.228;164.5;789.44;0.966;175499.47
+ENR-001;Parc Éolien Neuville;Éolien;Neuville-de-Poitou;12.0;2025-05-01;1799.59;0.202;150.0;719.84;0.972;167688.15
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-01-01;364.2;0.058;42.8;145.68;0.983;25504.93
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-02-01;491.02;0.086;57.8;196.41;0.976;42882.13
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-03-01;871.41;0.138;102.5;348.56;0.918;57448.72
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-04-01;1023.11;0.167;120.4;409.24;0.989;86927.4
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-05-01;1102.33;0.174;129.7;440.93;0.981;70178.15
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-06-01;1239.86;0.203;145.9;495.94;0.976;74303.0
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-07-01;1131.99;0.179;133.2;452.8;0.987;70291.42
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-08-01;1339.96;0.212;157.6;535.98;0.97;106543.41
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-09-01;925.01;0.151;108.8;370.0;0.921;81480.79
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-10-01;722.18;0.114;85.0;288.87;0.914;41312.14
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-11-01;401.15;0.066;47.2;160.46;0.924;32638.58
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2022-12-01;276.25;0.044;32.5;110.5;0.892;22946.95
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-01-01;347.97;0.055;40.9;139.19;0.983;21335.96
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-02-01;520.5;0.091;61.2;208.2;0.947;40277.3
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-03-01;851.68;0.135;100.2;340.67;0.912;48324.02
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-04-01;957.36;0.156;112.6;382.94;0.89;62861.87
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-05-01;1064.16;0.168;125.2;425.66;0.956;76730.58
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-06-01;1177.89;0.192;138.6;471.16;0.979;88102.88
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-07-01;1488.45;0.235;175.1;595.38;0.893;132574.27
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-08-01;1287.09;0.204;151.4;514.84;0.922;118166.23
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-09-01;1004.47;0.164;118.2;401.79;0.97;62548.3
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-10-01;607.29;0.096;71.4;242.92;0.968;50569.92
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-11-01;368.46;0.06;43.3;147.38;0.965;22199.98
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2023-12-01;345.3;0.055;40.6;138.12;0.932;24602.34
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-01-01;344.35;0.054;40.5;137.74;0.967;25990.89
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-02-01;460.52;0.078;54.2;184.21;0.942;30935.38
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-03-01;777.35;0.123;91.5;310.94;0.956;52872.79
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-04-01;837.58;0.137;98.5;335.03;0.89;49895.69
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-05-01;985.69;0.156;116.0;394.28;0.949;86363.95
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-06-01;1136.41;0.186;133.7;454.56;0.921;89856.72
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-07-01;1286.95;0.204;151.4;514.78;0.975;106148.75
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-08-01;1107.11;0.175;130.2;442.84;0.939;94493.55
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-09-01;1028.05;0.168;120.9;411.22;0.946;63863.83
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-10-01;690.4;0.109;81.2;276.16;0.919;57286.48
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-11-01;385.73;0.063;45.4;154.29;0.891;24569.69
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2024-12-01;362.97;0.057;42.7;145.19;0.95;33763.42
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2025-01-01;362.04;0.057;42.6;144.82;0.938;22667.23
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2025-02-01;493.65;0.086;58.1;197.46;0.925;30131.07
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2025-03-01;755.81;0.12;88.9;302.32;0.905;63997.33
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2025-04-01;840.17;0.137;98.8;336.07;0.983;70067.38
+ENR-002;Centrale PV Jaunay;Solaire PV;Jaunay-Marigny;8.5;2025-05-01;1032.71;0.163;121.5;413.08;0.976;94664.51
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-01-01;4245.07;0.317;235.8;1698.03;0.97;385721.38
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-02-01;3446.58;0.285;191.5;1378.63;0.952;279616.57
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-03-01;4069.44;0.304;226.1;1627.78;0.911;385329.14
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-04-01;3481.54;0.269;193.4;1392.62;0.905;217775.72
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-05-01;2703.5;0.202;150.2;1081.4;0.962;180790.04
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-06-01;1890.61;0.146;105.0;756.24;0.981;113614.82
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-07-01;2199.12;0.164;122.2;879.65;0.912;178865.39
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-08-01;1964.95;0.147;109.2;785.98;0.919;157737.44
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-09-01;2799.12;0.216;155.5;1119.65;0.981;173593.83
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-10-01;3550.45;0.265;197.2;1420.18;0.925;196614.91
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-11-01;4153.02;0.32;230.7;1661.21;0.934;359792.37
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2022-12-01;3660.99;0.273;203.4;1464.4;0.912;229019.74
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-01-01;3927.97;0.293;218.2;1571.19;0.887;272772.46
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-02-01;3747.15;0.31;208.2;1498.86;0.984;285237.81
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-03-01;3913.46;0.292;217.4;1565.38;0.888;352564.65
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-04-01;3153.83;0.243;175.2;1261.53;0.962;250914.24
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-05-01;2776.69;0.207;154.3;1110.68;0.921;155368.41
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-06-01;2266.34;0.175;125.9;906.54;0.883;155398.19
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-07-01;1806.64;0.135;100.4;722.66;0.983;162477.04
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-08-01;1895.51;0.142;105.3;758.2;0.887;128981.56
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-09-01;2353.04;0.182;130.7;941.22;0.989;171598.04
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-10-01;3376.94;0.252;187.6;1350.78;0.94;237806.97
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-11-01;4012.54;0.31;222.9;1605.02;0.936;277713.72
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2023-12-01;3544.86;0.265;196.9;1417.94;0.986;323703.6
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-01-01;3730.64;0.279;207.3;1492.26;0.974;284312.62
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-02-01;3205.39;0.256;178.1;1282.16;0.976;220813.64
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-03-01;3450.66;0.258;191.7;1380.26;0.887;221040.81
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-04-01;3038.72;0.234;168.8;1215.49;0.886;231372.93
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-05-01;2311.27;0.173;128.4;924.51;0.965;200028.38
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-06-01;2048.68;0.158;113.8;819.47;0.975;147896.65
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-07-01;2049.6;0.153;113.9;819.84;0.954;151378.16
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-08-01;2006.09;0.15;111.4;802.44;0.939;179840.5
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-09-01;2143.65;0.165;119.1;857.46;0.915;132231.83
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-10-01;3673.99;0.274;204.1;1469.6;0.942;241627.76
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-11-01;3894.42;0.3;216.4;1557.77;0.941;339890.96
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2024-12-01;3726.49;0.278;207.0;1490.6;0.959;261513.85
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2025-01-01;3590.7;0.268;199.5;1436.28;0.945;221492.59
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2025-02-01;3378.9;0.279;187.7;1351.56;0.881;242168.05
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2025-03-01;3928.84;0.293;218.3;1571.54;0.958;250970.62
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2025-04-01;2670.95;0.206;148.4;1068.38;0.896;160176.58
+ENR-003;Parc Éolien Loudun;Éolien;Loudun;18.0;2025-05-01;2829.36;0.211;157.2;1131.74;0.886;239530.96
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-01-01;216.21;0.056;41.6;86.48;0.922;17390.31
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-02-01;308.84;0.088;59.4;123.54;0.889;21188.11
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-03-01;515.07;0.133;99.1;206.03;0.934;31998.3
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-04-01;493.6;0.132;94.9;197.44;0.919;39288.34
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-05-01;799.0;0.207;153.7;319.6;0.895;68124.3
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-06-01;703.72;0.188;135.3;281.49;0.93;57420.52
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-07-01;871.21;0.225;167.5;348.48;0.896;49167.44
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-08-01;713.69;0.184;137.2;285.48;0.934;59142.62
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-09-01;575.66;0.154;110.7;230.26;0.986;51882.83
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-10-01;417.98;0.108;80.4;167.19;0.931;35997.45
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-11-01;250.52;0.067;48.2;100.21;0.919;20119.92
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2022-12-01;215.52;0.056;41.4;86.21;0.92;16698.75
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-01-01;251.84;0.065;48.4;100.74;0.95;21994.09
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-02-01;244.82;0.07;47.1;97.93;0.986;13477.79
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-03-01;404.09;0.104;77.7;161.64;0.956;23759.15
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-04-01;540.37;0.144;103.9;216.15;0.899;49977.16
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-05-01;719.49;0.186;138.4;287.8;0.942;46620.16
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-06-01;808.35;0.216;155.5;323.34;0.946;52123.35
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-07-01;933.63;0.241;179.5;373.45;0.939;51650.82
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-08-01;804.79;0.208;154.8;321.92;0.887;68889.04
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-09-01;528.26;0.141;101.6;211.3;0.973;34010.42
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-10-01;405.25;0.105;77.9;162.1;0.934;33999.72
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-11-01;246.78;0.066;47.5;98.71;0.885;20960.9
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2023-12-01;183.64;0.047;35.3;73.46;0.885;12980.75
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-01-01;208.67;0.054;40.1;83.47;0.923;13048.98
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-02-01;280.87;0.078;54.0;112.35;0.929;21783.82
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-03-01;437.44;0.113;84.1;174.98;0.911;28794.38
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-04-01;481.97;0.129;92.7;192.79;0.885;37825.72
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-05-01;666.13;0.172;128.1;266.45;0.914;44617.87
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-06-01;640.76;0.171;123.2;256.3;0.886;47729.34
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-07-01;929.43;0.24;178.7;371.77;0.967;87304.15
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-08-01;756.59;0.196;145.5;302.64;0.886;58110.79
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-09-01;587.9;0.157;113.1;235.16;0.926;32673.06
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-10-01;358.97;0.093;69.0;143.59;0.893;27431.38
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-11-01;196.87;0.053;37.9;78.75;0.886;17024.9
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2024-12-01;198.91;0.051;38.3;79.56;0.963;16360.12
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2025-01-01;256.3;0.066;49.3;102.52;0.967;15179.76
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2025-02-01;319.66;0.091;61.5;127.86;0.967;30005.99
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2025-03-01;418.41;0.108;80.5;167.36;0.892;27877.9
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2025-04-01;552.52;0.148;106.3;221.01;0.888;40640.91
+ENR-004;Centrale PV Civray;Solaire PV;Civray;5.2;2025-05-01;754.02;0.195;145.0;301.61;0.904;58304.03
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-02-01;1097.05;0.777;522.4;438.82;0.944;78992.99
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-03-01;1349.58;0.864;642.7;539.83;0.951;85517.26
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-04-01;1282.73;0.848;610.8;513.09;0.978;75946.56
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-05-01;1446.36;0.926;688.7;578.54;0.907;103026.44
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-06-01;1135.1;0.751;540.5;454.04;0.907;80378.15
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-07-01;1435.54;0.919;683.6;574.22;0.914;89357.24
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-08-01;1263.57;0.809;601.7;505.43;0.884;81053.27
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-09-01;1276.83;0.844;608.0;510.73;0.925;118042.91
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-10-01;1201.82;0.769;572.3;480.73;0.967;93992.71
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-11-01;1193.15;0.789;568.2;477.26;0.919;83954.99
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2022-12-01;1086.9;0.696;517.6;434.76;0.979;89741.36
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-01-01;1165.29;0.746;554.9;466.12;0.977;108405.93
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-02-01;1271.51;0.901;605.5;508.6;0.987;118597.2
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-03-01;1292.06;0.827;615.3;516.82;0.972;120380.04
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-04-01;1214.02;0.803;578.1;485.61;0.895;78995.0
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-05-01;1470.84;0.941;700.4;588.34;0.889;138872.98
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-06-01;1264.46;0.836;602.1;505.78;0.888;115956.1
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-07-01;1269.96;0.813;604.7;507.98;0.896;80874.5
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-08-01;1247.99;0.799;594.3;499.2;0.913;92302.61
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-09-01;1361.19;0.9;648.2;544.48;0.953;79394.29
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-10-01;1411.88;0.904;672.3;564.75;0.923;106113.4
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-11-01;1150.42;0.761;547.8;460.17;0.906;72098.7
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2023-12-01;1162.59;0.744;553.6;465.04;0.984;100005.64
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-01-01;1313.45;0.841;625.5;525.38;0.91;123640.5
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-02-01;1478.95;1.012;704.3;591.58;0.987;124166.29
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-03-01;1316.38;0.843;626.8;526.55;0.98;101922.83
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-04-01;1314.93;0.87;626.2;525.97;0.887;124443.17
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-05-01;1401.88;0.897;667.6;560.75;0.883;126275.05
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-06-01;1180.91;0.781;562.3;472.36;0.97;82509.63
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-07-01;1406.4;0.9;669.7;562.56;0.946;111893.23
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-08-01;1502.57;0.962;715.5;601.03;0.964;129971.4
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-09-01;1393.31;0.922;663.5;557.32;0.936;96000.71
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-10-01;1404.52;0.899;668.8;561.81;0.96;130948.22
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-11-01;1189.56;0.787;566.5;475.82;0.976;83902.07
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2024-12-01;1414.76;0.906;673.7;565.9;0.88;120353.23
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2025-01-01;1275.2;0.816;607.2;510.08;0.985;117335.74
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2025-02-01;1153.9;0.818;549.5;461.56;0.883;106662.1
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2025-03-01;1262.34;0.808;601.1;504.94;0.886;91691.94
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2025-04-01;1490.94;0.986;710.0;596.38;0.89;84147.44
+ENR-005;Méthanisation Vivonne;Biogaz;Vivonne;2.1;2025-05-01;1348.72;0.863;642.2;539.49;0.911;89642.79
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-01-01;1075.34;0.38;283.0;430.14;0.949;82937.1
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-02-01;826.15;0.324;217.4;330.46;0.942;68535.4
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-03-01;1299.18;0.46;341.9;519.67;0.978;92853.61
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-04-01;999.86;0.365;263.1;399.94;0.892;58258.69
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-05-01;1143.04;0.404;300.8;457.22;0.9;101983.67
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-06-01;702.11;0.257;184.8;280.84;0.915;41520.34
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-07-01;669.99;0.237;176.3;268.0;0.942;55704.38
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-08-01;455.72;0.161;119.9;182.29;0.908;43157.49
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-09-01;626.4;0.229;164.8;250.56;0.952;46656.63
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-10-01;810.8;0.287;213.4;324.32;0.934;48557.58
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-11-01;854.38;0.312;224.8;341.75;0.971;55947.2
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2022-12-01;1025.53;0.363;269.9;410.21;0.896;83355.15
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-01-01;1118.91;0.396;294.5;447.56;0.886;96805.62
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-02-01;910.5;0.357;239.6;364.2;0.902;69654.78
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-03-01;1163.58;0.412;306.2;465.43;0.894;67937.57
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-04-01;1227.99;0.449;323.2;491.2;0.94;90748.61
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-05-01;1100.22;0.389;289.5;440.09;0.883;67997.18
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-06-01;864.29;0.316;227.4;345.72;0.9;48253.37
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-07-01;565.08;0.2;148.7;226.03;0.965;42646.99
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-08-01;510.67;0.181;134.4;204.27;0.93;29354.86
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-09-01;554.34;0.203;145.9;221.74;0.902;33751.5
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-10-01;769.04;0.272;202.4;307.62;0.891;72543.71
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-11-01;822.17;0.301;216.4;328.87;0.929;56386.28
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2023-12-01;1192.12;0.422;313.7;476.85;0.946;95049.95
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-01-01;995.49;0.352;262.0;398.2;0.94;64398.29
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-02-01;1114.16;0.421;293.2;445.66;0.884;76959.29
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-03-01;1193.63;0.422;314.1;477.45;0.894;98627.54
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-04-01;1193.16;0.436;314.0;477.26;0.943;93619.47
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-05-01;985.32;0.349;259.3;394.13;0.98;69100.13
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-06-01;870.95;0.318;229.2;348.38;0.907;61208.87
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-07-01;607.11;0.215;159.8;242.84;0.904;54635.05
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-08-01;445.62;0.158;117.3;178.25;0.942;34553.79
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-09-01;533.01;0.195;140.3;213.2;0.979;50085.9
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-10-01;861.42;0.305;226.7;344.57;0.963;71580.0
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-11-01;976.86;0.357;257.1;390.74;0.888;84385.14
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2024-12-01;1212.28;0.429;319.0;484.91;0.986;111928.02
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2025-01-01;964.46;0.341;253.8;385.78;0.896;85553.23
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2025-02-01;860.17;0.337;226.4;344.07;0.906;63690.9
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2025-03-01;1258.63;0.445;331.2;503.45;0.949;85104.03
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2025-04-01;1018.31;0.372;268.0;407.32;0.92;82771.47
+ENR-006;Hydroélectrique Chauvigny;Hydraulique;Chauvigny;3.8;2025-05-01;1067.52;0.378;280.9;427.01;0.95;75966.12
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-04-01;128.13;0.148;106.8;51.25;0.935;8254.68
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-05-01;157.94;0.177;131.6;63.18;0.913;11277.4
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-06-01;149.78;0.173;124.8;59.91;0.905;8580.38
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-07-01;215.33;0.241;179.4;86.13;0.895;17838.84
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-08-01;170.37;0.191;142.0;68.15;0.925;15077.54
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-09-01;143.92;0.167;119.9;57.57;0.933;11394.69
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-10-01;97.46;0.109;81.2;38.98;0.958;6570.63
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-11-01;44.53;0.052;37.1;17.81;0.927;3376.11
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2023-12-01;47.33;0.053;39.4;18.93;0.904;3350.03
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-01-01;45.66;0.051;38.1;18.26;0.966;3841.88
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-02-01;69.07;0.083;57.6;27.63;0.961;6435.05
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-03-01;107.49;0.12;89.6;43.0;0.96;9308.05
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-04-01;120.7;0.14;100.6;48.28;0.957;8364.26
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-05-01;147.77;0.166;123.1;59.11;0.945;10882.0
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-06-01;192.79;0.223;160.7;77.12;0.932;15589.6
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-07-01;184.16;0.206;153.5;73.66;0.919;16413.91
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-08-01;155.96;0.175;130.0;62.38;0.984;14426.56
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-09-01;114.0;0.132;95.0;45.6;0.941;9690.09
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-10-01;79.96;0.09;66.6;31.98;0.897;5612.07
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-11-01;47.31;0.055;39.4;18.92;0.988;3288.71
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2024-12-01;46.07;0.052;38.4;18.43;0.888;4335.73
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2025-01-01;59.85;0.067;49.9;23.94;0.906;3843.95
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2025-02-01;56.36;0.07;47.0;22.54;0.932;5097.21
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2025-03-01;97.67;0.109;81.4;39.07;0.914;7561.6
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2025-04-01;127.95;0.148;106.6;51.18;0.904;11101.2
+ENR-007;Toiture PV Chasseneuil;Solaire PV;Chasseneuil-du-Poitou;1.2;2025-05-01;172.9;0.194;144.1;69.16;0.952;9799.54
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-01-01;2768.61;0.248;184.6;1107.44;0.963;210209.06
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-02-01;3389.16;0.336;225.9;1355.66;0.979;251306.8
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-03-01;2877.71;0.258;191.8;1151.08;0.88;166133.36
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-04-01;2958.02;0.274;197.2;1183.21;0.969;201434.8
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-05-01;2124.52;0.19;141.6;849.81;0.907;151767.69
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-06-01;1879.05;0.174;125.3;751.62;0.885;166458.45
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-07-01;1591.89;0.143;106.1;636.76;0.951;121642.95
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-08-01;1366.04;0.122;91.1;546.42;0.905;82446.57
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-09-01;2037.98;0.189;135.9;815.19;0.891;193243.79
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-10-01;2718.85;0.244;181.3;1087.54;0.902;241903.52
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-11-01;2979.31;0.276;198.6;1191.72;0.924;241341.41
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2022-12-01;2992.73;0.268;199.5;1197.09;0.911;170693.62
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-01-01;2904.52;0.26;193.6;1161.81;0.98;220581.56
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-02-01;3288.88;0.326;219.3;1315.55;0.945;228949.59
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-03-01;2849.63;0.255;190.0;1139.85;0.888;246633.09
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-04-01;2506.58;0.232;167.1;1002.63;0.899;180303.47
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-05-01;2418.74;0.217;161.2;967.5;0.901;154267.45
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-06-01;2077.22;0.192;138.5;830.89;0.947;158396.92
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-07-01;1735.28;0.155;115.7;694.11;0.882;144874.07
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-08-01;1376.99;0.123;91.8;550.8;0.947;81836.28
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-09-01;1819.16;0.168;121.3;727.66;0.927;144661.29
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-10-01;2733.41;0.245;182.2;1093.36;0.963;153426.31
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-11-01;2995.35;0.277;199.7;1198.14;0.966;240086.72
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2023-12-01;3707.29;0.332;247.2;1482.92;0.941;249424.14
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-01-01;2975.18;0.267;198.3;1190.07;0.964;278297.37
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-02-01;2987.27;0.286;199.2;1194.91;0.967;165563.98
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-03-01;3349.62;0.3;223.3;1339.85;0.967;286470.91
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-04-01;2891.5;0.268;192.8;1156.6;0.93;170146.67
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-05-01;2106.26;0.189;140.4;842.5;0.893;163469.74
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-06-01;1647.42;0.153;109.8;658.97;0.952;141109.97
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-07-01;1492.32;0.134;99.5;596.93;0.96;123479.86
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-08-01;1520.26;0.136;101.4;608.1;0.973;110571.53
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-09-01;1901.67;0.176;126.8;760.67;0.92;153444.61
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-10-01;2770.48;0.248;184.7;1108.19;0.909;152417.85
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-11-01;2715.68;0.251;181.0;1086.27;0.988;245601.02
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2024-12-01;2906.78;0.26;193.8;1162.71;0.942;190791.15
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2025-01-01;2694.44;0.241;179.6;1077.78;0.987;224885.14
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2025-02-01;3151.82;0.313;210.1;1260.73;0.989;196484.1
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2025-03-01;3387.96;0.304;225.9;1355.18;0.893;210214.19
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2025-04-01;2595.12;0.24;173.0;1038.05;0.989;230864.08
+ENR-008;Parc Éolien Montmorillon;Éolien;Montmorillon;15.0;2025-05-01;1972.8;0.177;131.5;789.12;0.908;137024.14
