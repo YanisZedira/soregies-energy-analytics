@@ -4,7 +4,7 @@
  Dashboard Data Analytics - Secteur Énergie
  Territoire : Vienne (86)
  
- Auteur : [TON NOM]
+ Auteur : Yanis Zedira
  Version : 1.0.0
  Stack : Python, Streamlit, Pandas, Plotly, Folium
 ============================================================================
@@ -1511,8 +1511,9 @@ st.markdown("""
 <div class="footer">
     <p>
         <strong>Sorégies Energy Analytics Platform</strong> • Projet Portfolio Data Engineering<br>
-        Développé par <strong>[TON NOM]</strong> • Stack : Python, Streamlit, Pandas, Plotly<br>
+        Développé par <strong>Yanis Zedira</strong> • Stack : Python, Streamlit, Pandas, Plotly<br>
         Données simulées à des fins de démonstration • © 2025
     </p>
 </div>
 """, unsafe_allow_html=True)
+
