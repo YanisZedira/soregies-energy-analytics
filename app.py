@@ -171,6 +171,32 @@ st.markdown("""
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
+
+
+        /* === SIDEBAR RADIO BUTTONS === */
+    [data-testid="stSidebar"] .stRadio label {
+        color: white !important;
+    }
+    
+    [data-testid="stSidebar"] .stRadio div[role="radiogroup"] label p {
+        color: white !important;
+        font-size: 0.95rem;
+    }
+    
+    [data-testid="stSidebar"] .stMultiSelect label,
+    [data-testid="stSidebar"] .stSelectSlider label,
+    [data-testid="stSidebar"] .stSlider label {
+        color: white !important;
+    }
+    
+    [data-testid="stSidebar"] h3 {
+        color: white !important;
+    }
+    
+    [data-testid="stSidebar"] p, 
+    [data-testid="stSidebar"] span {
+        color: #E0E0E0 !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
