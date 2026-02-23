@@ -25,7 +25,7 @@ warnings.filterwarnings('ignore')
 # CONFIGURATION PAGE
 # ============================================================================
 st.set_page_config(
-    page_title="Sorégies • Energy Analytics Platform",
+    page_title="Sorégies • Energy Analytics Platform by Yanis Zedira | Data Engineer/Analyst",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -1516,4 +1516,5 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
 
